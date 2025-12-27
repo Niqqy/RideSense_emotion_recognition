@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Model files (too large for GitHub)
+models/*.keras
+models/*.h5
+*.keras
+*.h5
+
+# Data folders (too large)
+data/
+train/
+test/
+validation/
+logs/
+
+# CSV files (can be large)
+*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+screenshot_*.jpg
+output_*.mp4
+output_*.jpg
+*.png

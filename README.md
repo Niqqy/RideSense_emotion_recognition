@@ -101,8 +101,7 @@ Built using Convolutional Neural Networks (CNN) with:
 This project was developed as part of a computer vision course focused on emotion recognition systems for transportation safety applications in Kenya.
 
 ## 👨‍💻 Author
-Developed by [Your Name]
-[Your University]
+Developed by Nicolette Nkirote
 
 ## 📄 License
 This project is available for academic and educational purposes.
